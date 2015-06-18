@@ -8,10 +8,10 @@ buildscript {
     }
 
     project.ext {
-        compileSdkVersion = 19
-        buildToolsVersion = "19.1"
+        compileSdkVersion = 22
+        buildToolsVersion = "21.1.2"
         minSdkVersion = 14
-        targetSdkVersion = 19
+        targetSdkVersion = 22
     }
 }
 
